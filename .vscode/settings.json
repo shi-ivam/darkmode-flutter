@@ -1,0 +1,14 @@
+{
+    "editor.renderIndentGuides": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.rulers": [
+    
+    ],
+    "[git-commit]": {
+    
+
+        "editor.rulers": [
+        ],
+        "workbench.editor.restoreViewState": false
+    }
+}
